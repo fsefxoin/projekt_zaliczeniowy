@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Game>
+    <Name>123</Name>
+    <Summary>123</Summary>
+    <Genre>123</Genre>
+    <Rating>23123</Rating>
+    <Platform>0</Platform>
+  </Game>
+  <Game>
+    <Name>123</Name>
+    <Summary>21323123</Summary>
+    <Genre>4121</Genre>
+    <Rating>3333</Rating>
+    <Platform>0</Platform>
+  </Game>
+</ArrayOfGame>

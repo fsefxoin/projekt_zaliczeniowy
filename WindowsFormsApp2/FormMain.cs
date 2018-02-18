@@ -40,10 +40,11 @@ namespace WindowsFormsApp2
             GamesList = (List<Game>)XmlSer.Deserialize(path);
             if (GamesList.Count == 0)
                 return;
-
+            lvGames.Items.Clear();
+            LvGamesPair.Clear();
             foreach (Game g in GamesList)
             {
-                ListViewItem lvItem = new ListViewItem(new string[] { g.Name, g.Genre, "", g.Rating.ToString() });
+                ListViewItem lvItem = new ListViewItem(new string[] { g.name, g.genre, "", g.rating.ToString() });
                 lvGames.Items.Add(lvItem);
                 LvGamesPair.Add(lvItem, g);
             }
@@ -51,7 +52,6 @@ namespace WindowsFormsApp2
 
         private void lvGames_SelectedIndexChanged(object sender, EventArgs e)
         {
-
             IEnumerable<ListViewItem> lviList = ((ListView)sender).SelectedItems.Cast<ListViewItem>();
             if (lviList.Count() == 0)
                 return;
@@ -64,17 +64,14 @@ namespace WindowsFormsApp2
             try
             {
                 Game g = LvGamesPair[lvItem];
-                lblTytul.Text = g.Name;
-                rtbOpis.Text = g.Summary;
-                txbGatunek.Text = g.Genre;
-                txbOcena.Text = g.Rating.ToString();
+                lblTytul.Text = g.name;
+                rtbOpis.Text = g.summary;
+                txbGatunek.Text = g.genre;
+                txbOcena.Text = g.rating.ToString();
             } catch(Exception e)
             {
                 MessageBox.Show(e.Message);
             }
-                
-
-
         }
 
         private void gbGames_Enter(object sender, EventArgs e)
@@ -92,6 +89,7 @@ namespace WindowsFormsApp2
                 Game g = formAdd.g;
                 GamesList.Add(g);
                 XmlSer.Serialize(GamesList, path);
+                
                 LoadgameLV();
             }
            
@@ -107,6 +105,13 @@ namespace WindowsFormsApp2
             LvGamesPair.Remove(lvItem);
             lvGames.Items.Remove(lvItem);
             XmlSer.Serialize(GamesList, path);
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Game g = new Game();
+
+            MessageBox.Show(g.releaseDate.ToString());
         }
     }
 }

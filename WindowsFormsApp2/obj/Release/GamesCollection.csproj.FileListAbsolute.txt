@@ -1,0 +1,14 @@
+C:\Users\D\Downloads\projekt_zaliczeniowy-master\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe.config
+C:\Users\D\Downloads\projekt_zaliczeniowy-master\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe
+C:\Users\D\Downloads\projekt_zaliczeniowy-master\WindowsFormsApp2\bin\Release\WindowsFormsApp2.pdb
+C:\Users\D\Downloads\projekt_zaliczeniowy-master\WindowsFormsApp2\bin\Release\Newtonsoft.Json.dll
+C:\Users\D\Downloads\projekt_zaliczeniowy-master\WindowsFormsApp2\bin\Release\System.ValueTuple.dll
+C:\Users\D\Downloads\projekt_zaliczeniowy-master\WindowsFormsApp2\bin\Release\Newtonsoft.Json.xml
+C:\Users\D\Downloads\projekt_zaliczeniowy-master\WindowsFormsApp2\bin\Release\System.ValueTuple.xml
+C:\Users\D\Downloads\projekt_zaliczeniowy-master\WindowsFormsApp2\obj\Release\WindowsFormsApp2.FormAdd.resources
+C:\Users\D\Downloads\projekt_zaliczeniowy-master\WindowsFormsApp2\obj\Release\WindowsFormsApp2.FormGamesFound.resources
+C:\Users\D\Downloads\projekt_zaliczeniowy-master\WindowsFormsApp2\obj\Release\WindowsFormsApp2.FormMain.resources
+C:\Users\D\Downloads\projekt_zaliczeniowy-master\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\D\Downloads\projekt_zaliczeniowy-master\WindowsFormsApp2\obj\Release\GamesCollection.csproj.GenerateResource.Cache
+C:\Users\D\Downloads\projekt_zaliczeniowy-master\WindowsFormsApp2\obj\Release\WindowsFormsApp2.exe
+C:\Users\D\Downloads\projekt_zaliczeniowy-master\WindowsFormsApp2\obj\Release\WindowsFormsApp2.pdb

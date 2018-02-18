@@ -9,3 +9,17 @@ C:\Users\Dawid\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\GamesCol
 C:\Users\Dawid\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\GamesCollection.csproj.CoreCompileInputs.cache
 C:\Users\Dawid\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
 C:\Users\Dawid\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\D\Downloads\projekt_zaliczeniowy-master\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\D\Downloads\projekt_zaliczeniowy-master\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\D\Downloads\projekt_zaliczeniowy-master\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\D\Downloads\projekt_zaliczeniowy-master\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\D\Downloads\projekt_zaliczeniowy-master\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\D\Downloads\projekt_zaliczeniowy-master\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FormAdd.resources
+C:\Users\D\Downloads\projekt_zaliczeniowy-master\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FormMain.resources
+C:\Users\D\Downloads\projekt_zaliczeniowy-master\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\D\Downloads\projekt_zaliczeniowy-master\WindowsFormsApp2\obj\Debug\GamesCollection.csproj.GenerateResource.Cache
+C:\Users\D\Downloads\projekt_zaliczeniowy-master\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\D\Downloads\projekt_zaliczeniowy-master\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\D\Downloads\projekt_zaliczeniowy-master\WindowsFormsApp2\bin\Debug\System.ValueTuple.dll
+C:\Users\D\Downloads\projekt_zaliczeniowy-master\WindowsFormsApp2\bin\Debug\System.ValueTuple.xml
+C:\Users\D\Downloads\projekt_zaliczeniowy-master\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FormGamesFound.resources
